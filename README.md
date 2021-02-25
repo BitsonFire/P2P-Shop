@@ -11,6 +11,10 @@ python3 GUI.py
 ```
 Please ensure that you have installed the Tkinter library before starting the application.
 
-A Flow of the application can be understood using the diagram provided below.
+#### Flow Diagram
+The flow of the application can be understood using the diagram provided below.
 ![Flow Diagram](https://github.com/BitsonFire/P2P-Shop/blob/main/Flowcharts%20and%20Diagrams/P2P-Shop_Flowdiagram.jpg)
 
+
+#### Screenshot
+![ScreenShot](https://github.com/BitsonFire/P2P-Shop/blob/main/Flowcharts%20and%20Diagrams/P2P-Shop_Screenshot.JPG)
